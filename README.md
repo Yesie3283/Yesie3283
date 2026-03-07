@@ -9,9 +9,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yesie3283&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-</div>
 <div align="left">
   <a href="https:[//twitter.com/](https://x.com/Yesie3283)"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" /></a>  
   <a href="[https://instagram.com/](https://www.instagram.com/yesie.yusf/)"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /></a>
